@@ -1,7 +1,5 @@
 # IDS_dataset_FSL
 
-# IDS_dataset
-
 Data count
 
 |Category	        |Count	  |Percentage|
